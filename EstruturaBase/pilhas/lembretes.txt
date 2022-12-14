@@ -1,0 +1,1 @@
+O comportamento da pilha é definodo como "LIFO: LAST IN FIRST OUT" = O último elemento a entrar é o primeiro a sair

@@ -1,0 +1,56 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Teste18",
+            "request": "launch",
+            "mainClass": "EstruturaBase.pilhas.testes.Teste18",
+            "projectName": "estruturaDeDadosJava_6a65cd5f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste17",
+            "request": "launch",
+            "mainClass": "EstruturaBase.pilhas.testes.Teste17",
+            "projectName": "estruturaDeDadosJava_6a65cd5f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste",
+            "request": "launch",
+            "mainClass": "Teste",
+            "projectName": "estruturaDeDadosJava_6a65cd5f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste04",
+            "request": "launch",
+            "mainClass": "Teste04",
+            "projectName": "estruturaDeDadosJava_6a65cd5f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste05",
+            "request": "launch",
+            "mainClass": "Teste05",
+            "projectName": "estruturaDeDadosJava_6a65cd5f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste06",
+            "request": "launch",
+            "mainClass": "Teste06",
+            "projectName": "estruturaDeDadosJava_6a65cd5f"
+        }
+    ]
+}
